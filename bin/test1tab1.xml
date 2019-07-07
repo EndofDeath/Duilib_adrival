@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window>
+          <HorizontalLayout>
+	<HorizontalLayout minwidth="120" maxwidth="240" bkcolor="#FFF0F0F0" sepwidth="10">
+	<DragText float="true" pos="0,0,60,60" text="按住拖动" font="4" bkcolor="#FFFF0000"/>
+	<DragText float="true" pos="0,0,60,60" text="按住拖动" font="4" bkcolor="#FF00FF00"/>
+	<DragText float="true" pos="0,0,60,60" text="按住拖动" font="4" bkcolor="#FF0000FF"/>
+	<DragText float="true" pos="0,0,60,60" text="按住拖动" font="4" bkcolor="#FFFFFF00"/>
+	<DragText float="true" pos="0,0,60,60" text="按住拖动" font="4" bkcolor="#FF00FFFF"/>
+	<DragText float="true" pos="0,0,60,60" text="按住拖动" font="4" bkcolor="#FFFF00FF"/>
+	</HorizontalLayout>
+	<HorizontalLayout>
+            	<Text text="页面1" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮1"/>
+	<Button maxheight="50" maxwidth="50" text="按钮2"/>
+	<Button maxheight="50" maxwidth="50" text="按钮3"/>
+	<RichEdit bordercolor="#FF0000" bordersize="2" borderround="8,8" inset="4,2,4,2" bkcolor="#FFFFFFFF" font="1" multiline="true" rich="false" hscrollbar="true" autohscroll="true"/>
+	<Text text="页面1" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮4"/>
+	</HorizontalLayout>
+          </HorizontalLayout>
+</Window>

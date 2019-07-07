@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window size="800,572" sizebox="4,4,6,6" roundcorner="5,5" caption="0,0,0,90" mininfo="800,570">
+  <Font id="0" name="宋体" size="13" bold="true" />
+  <Font id="1" name="宋体" size="32" bold="true" />
+  <Font id="2" name="宋体" size="12" />
+  <Font id="3" name="宋体" size="14" bold="true" />
+  <Font id="4" name="宋体" size="22" bold="true" italic="true"/>
+  <Font id="5" name="宋体" size="12" />
+  <Default name="VScrollBar" value="button1normalimage=&quot;file='scrollbar.bmp' source='0,90,16,106' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='scrollbar.bmp' source='18,90,34,106' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scrollbar.bmp' source='36,90,52,106' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scrollbar.bmp' source='54,90,70,106' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scrollbar.bmp' source='0,108,16,124' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scrollbar.bmp' source='18,108,34,124' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scrollbar.bmp' source='36,108,52,124' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scrollbar.bmp' source='54,108,70,124' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scrollbar.bmp' source='0,126,16,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scrollbar.bmp' source='18,126,34,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scrollbar.bmp' source='36,126,52,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scrollbar.bmp' source='54,126,70,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scrollbar.bmp' source='0,144,16,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scrollbar.bmp' source='18,144,34,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scrollbar.bmp' source='36,144,52,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scrollbar.bmp' source='54,144,70,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scrollbar.bmp' source='0,162,16,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scrollbar.bmp' source='18,162,34,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scrollbar.bmp' source='36,162,52,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scrollbar.bmp' source='54,162,70,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+  <Default name="HScrollBar" value="button1normalimage=&quot;file='scrollbar.bmp' source='0,0,16,16' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='scrollbar.bmp' source='18,0,34,16' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scrollbar.bmp' source='36,0,52,16' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scrollbar.bmp' source='54,0,70,16' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scrollbar.bmp' source='0,18,16,34' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scrollbar.bmp' source='18,18,34,34' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scrollbar.bmp' source='36,18,52,34' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scrollbar.bmp' source='54,18,70,34' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scrollbar.bmp' source='0,36,16,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scrollbar.bmp' source='18,36,34,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scrollbar.bmp' source='36,36,52,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scrollbar.bmp' source='54,36,70,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scrollbar.bmp' source='0,54,16,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scrollbar.bmp' source='18,54,34,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scrollbar.bmp' source='36,54,52,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scrollbar.bmp' source='54,54,70,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scrollbar.bmp' source='0,72,16,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scrollbar.bmp' source='18,72,34,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scrollbar.bmp' source='36,72,52,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scrollbar.bmp' source='54,72,70,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+  <Default shared="true" name="Button" value="textcolor=&quot;#000000&quot; hottextcolor=&quot;#FFFFFF&quot; focusedtextcolor=&quot;#000000&quot; pushedtextcolor=&quot;#77a8de&quot; normalimage=&quot;file='Button/btn.png' corner='5,11,5,11' source='0,0,96,24'&quot; hotimage=&quot;file='Button/btn.png' corner='5,11,5,11' source='0,24,96,48'&quot; pushedimage=&quot;file='Button/btn.png' corner='5,11,5,11' source='0,48,96,72'&quot; disabledimage=&quot;file='Button/btn.png' corner='5,11,5,11' source='0,72,96,96'&quot;" />
+	
+<VerticalLayout bkcolor="#FFD1E8F5" bkcolor2="#FFC6E0F1" bordercolor="#FF768D9B" bordersize="1" borderround="5,5" inset="1,0,1,0">
+      <HorizontalLayout  height="50">
+      <Option  text="切换页面1" name="select1" textcolor="#FF386382" font="2" normalimage="skin\tabbar_normal.png" hotimage="skin\tabbar_hover.png" pushedimage="skin\tabbar_pushed.png" selectedimage="skin\tabbar_pushed.png" group="contenttab" selected="true"/>
+      <Option  text="切换页面2" name="select2" textcolor="#FF386382" font="2" normalimage="skin\tabbar_normal.png" hotimage="skin\tabbar_hover.png" pushedimage="skin\tabbar_pushed.png" selectedimage="skin\tabbar_pushed.png" group="contenttab"/>
+       <Option  text="切换页面3" name="select3" textcolor="#FF386382" font="2" normalimage="skin\tabbar_normal.png" hotimage="skin\tabbar_hover.png" pushedimage="skin\tabbar_pushed.png" selectedimage="skin\tabbar_pushed.png" group="contenttab"/>
+      <Option  text="切换页面4" name="select4" textcolor="#FF386382" font="2" normalimage="skin\tabbar_normal.png" hotimage="skin\tabbar_hover.png" pushedimage="skin\tabbar_pushed.png" selectedimage="skin\tabbar_pushed.png" group="contenttab"/>
+      <Option  text="切换页面5" name="select5" textcolor="#FF386382" font="2" normalimage="skin\tabbar_normal.png" hotimage="skin\tabbar_hover.png" pushedimage="skin\tabbar_pushed.png" selectedimage="skin\tabbar_pushed.png" group="contenttab"/>
+</HorizontalLayout>
+<HorizontalLayout>
+        <TabLayout name="switch">
+          <Include source="test1tab1.xml"/>
+          <HorizontalLayout>
+	<VerticalLayout>
+	<Control height="100"/>
+            <Text text="页面2" font="4" />
+	<Button name="btn1" maxheight="50" maxwidth="50" text="按钮1"/>
+	<RichEdit bordercolor="#FF0000" bordersize="2" borderround="8,8" inset="4,2,4,2" bkcolor="#FFFFFFFF" font="1" multiline="true" rich="false" hscrollbar="true" autohscroll="true"/>
+	<Control height="100"/>
+	<Button maxheight="50" maxwidth="50" text="按钮2"/>
+	<Text text="页面2" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮3"/>
+	<Control height="10"/>
+	<Text text="页面2" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮4"/>
+	<Control height="10"/>
+	<Button maxheight="50" maxwidth="50" text="按钮5"/>
+	</VerticalLayout>
+          </HorizontalLayout>
+          <HorizontalLayout>
+	<VerticalLayout>
+	<Control height="100"/>
+            <Text text="页面3" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮1"/>
+	<Control height="100"/>
+	<Button maxheight="50" maxwidth="50" text="按钮2"/>
+	<Text text="页面3" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮3"/>
+	<Control height="10"/>
+	<Text text="页面3" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮4"/>
+	<Control height="10"/>
+	</VerticalLayout>
+	<RichEdit bordercolor="#FF0000" bordersize="2" borderround="8,8" inset="4,2,4,2" bkcolor="#FFFFFFFF" font="1" multiline="true" rich="false" hscrollbar="true" autohscroll="true"/>
+          </HorizontalLayout>
+          <HorizontalLayout>
+	<VerticalLayout>
+	<Control height="100"/>
+            <Text text="页面4" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮1"/>
+	<Control height="100"/>
+	<Button maxheight="50" maxwidth="50" text="按钮2"/>
+	<Text text="页面4" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮3"/>
+	<Control height="10"/>
+	<Text text="页面4" font="4" />
+	</VerticalLayout>
+	<RichEdit bordercolor="#FF0000" bordersize="2" borderround="8,8" inset="4,2,4,2" bkcolor="#FFFFFFFF" font="1" multiline="true" rich="false" hscrollbar="true" autohscroll="true"/>
+          </HorizontalLayout>
+          <HorizontalLayout>
+	<VerticalLayout>
+	<Control height="100"/>
+            <Text text="页面5" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮1"/>
+	<Control height="100"/>
+	<Button maxheight="50" maxwidth="50" text="按钮2"/>
+	<Text text="页面5" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮3"/>
+	<Control height="10"/>
+	<Text text="页面5" font="4" />
+	<Button maxheight="50" maxwidth="50" text="按钮4"/>
+	<Control height="10"/>
+	<Button maxheight="50" maxwidth="50" text="按钮5"/>
+	</VerticalLayout>
+	<RichEdit bordercolor="#FF0000" bordersize="2" borderround="8,8" inset="4,2,4,2" bkcolor="#FFFFFFFF" font="1" multiline="true" rich="false" hscrollbar="true" autohscroll="true"/>
+          </HorizontalLayout>
+        </TabLayout>
+</HorizontalLayout>
+  </VerticalLayout>
+</Window>
